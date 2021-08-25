@@ -1,0 +1,23 @@
+https://github.com/Naveen8097/naveensaibabukota.git
+
+CENTRAL REPOSITORY
+
+
+C:\Users\lenovo\Desktop\git
+
+
+$ git push
+adding which are not available in local repository to the central repository
+it takes all commit id to central repository
+
+
+
+
+
+
+aws devops 
+60-75
+25k
+offline 
+dilshuknagar
+g
